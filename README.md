@@ -1,4 +1,4 @@
->[!CONSEJO]
+
 >CLASE 2 IG DE SOFTWARE
 
 # Ejercicios-Ig-de-Software
